@@ -1,8 +1,7 @@
-# Linear Regression Health Cost Calculator 💰
 
-## Healthcare Cost Prediction Using Neural Networks
+# Healthcare Cost Prediction Using Neural Networks
 
-## Quick Overview (2-Minute Read)
+## Quick Overview 
 
 **Problem:** Predict individual healthcare costs using regression analysis on demographic and health data, achieving Mean Absolute Error (MAE) under **$3,500**.
 
