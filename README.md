@@ -25,7 +25,7 @@
 - Matplotlib for visualization
 - `tensorflow_docs` for training callbacks
 
-
+---
 
 ### Step 2: Data Exploration
 
@@ -38,7 +38,7 @@
 
 **Initial Analysis:** Used `dataset.tail()` to inspect data structure and identify preprocessing needs.
 
-
+---
 
 ### Step 3: Categorical Data Encoding
 
@@ -58,7 +58,7 @@
 
 **Impact:** Converted all features to numerical format for model compatibility.
 
-
+---
 
 ### Step 4: Train-Test Split
 
@@ -75,7 +75,7 @@
 - `train_labels`: target values for training
 - `test_labels`: target values for evaluation
 
-
+---
 
 ### Step 5: Feature Normalization
 
@@ -93,7 +93,7 @@
 - Improved gradient descent stability
 - Better model generalization
 
-
+---
 
 ### Step 6: Neural Network Architecture Design
 
@@ -110,7 +110,7 @@
 - ReLU activation avoids vanishing gradients
 - 64 neurons balance learning capacity and overfitting risk
 
-
+---
 
 ### Step 7: Model Compilation
 
@@ -126,7 +126,7 @@
 - MAE (Mean Absolute Error): primary evaluation metric
 - MSE (Mean Squared Error): secondary monitoring metric
 
-
+---
 
 ### Step 8: Model Training
 
@@ -141,7 +141,7 @@
 
 **Result:** Model learned relationships between patient features and healthcare costs.
 
-
+---
 
 ### Step 9: Model Evaluation
 
@@ -157,7 +157,7 @@
 
 **Interpretation:** Model predictions are, on average, $2,800 away from actual healthcare costs.
 
-
+---
 
 ### Step 10: Prediction Visualization
 
@@ -174,7 +174,7 @@
 - Scatter distribution highlights model strengths and weaknesses
 - Visual confirmation of $2,800 MAE performance
 
-
+---
 
 ### Step 11: Final Validation
 
