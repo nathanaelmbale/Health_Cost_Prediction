@@ -9,7 +9,10 @@
 
 **Impact:** Achieved **$2,800 MAE** (20% better than the requirement), demonstrating proficiency in regression modeling, data preprocessing, and TensorFlow/Keras implementation.
 
-
+**Completed Project** 
+```
+https://colab.research.google.com/drive/1TzGEH3w3DyVbxumFz2LufzQEgTDMPYgX?usp=drive_link
+```
 
 ## Step-by-Step Implementation
 
